@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.nawader.nawader",
+      "sha256_cert_fingerprints": [
+        "D2:2B:FA:14:08:A0:B3:1A:2F:B6:DA:4C:CB:63:FF:EC:AA:4D:63:24:CB:15:6F:BC:BE:19:BC:5A:EE:34:6D:63"
+      ]
+    }
+  }
+]

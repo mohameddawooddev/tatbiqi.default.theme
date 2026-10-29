@@ -1,0 +1,11 @@
+
+{
+  "app_name": "Another App",
+  "share_products_Url": "https://nawader.app/products/",
+  "base_payment_Url": "https://nawader.app",
+  "main_base_url": "https://nawader.tatbiqi.app/api/v1",
+  "zidBaseUrl": "https://nawader.app/api/v1",
+  "zidUrl": "https://nawader.app",
+  "default_language": "en",
+  "enable_loyalty": false
+}

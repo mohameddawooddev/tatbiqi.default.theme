@@ -1,0 +1,10 @@
+{
+  "app_name": "Another App",
+  "share_products_Url": "https://72djzk.zid.store/products/",
+  "base_payment_Url": "https://72djzk.zid.store",
+  "main_base_url": "https://72djzk.zid.store/api",
+  "zidBaseUrl": "https://72djzk.zid.store/api/v1",
+  "zidUrl": "https://72djzk.zid.store",
+  "default_language": "en",
+  "enable_loyalty": false
+}
